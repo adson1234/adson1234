@@ -7,7 +7,7 @@
 
 ⚡ Things I do in my free time:
 - Genshin Impact Player(700 days activity)
-- Starcraft Player(10 years player with 5000 peak mmr)
+- Starcraft2 Player(10 years player with 5000 peak mmr/ quitted playing now)
 - Hearthstone player(10 years player with 6000+ wins count)
 - Go hiking and go to the gym
 
