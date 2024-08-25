@@ -1,12 +1,12 @@
 ## Hi there 👋
 
 ⚡ Things I do in my free time:
-Genshin Impact Player(700 days activity)
-Starcraft Player(10 years player with 5000 peak mmr)
-Hearthstone player
+- Genshin Impact Player(700 days activity)
+- Starcraft Player(10 years player with 5000 peak mmr)
+- Hearthstone player
 
-Duolingo User(73 days streak)
-Leetcode daily problem solver(150 days streak)
+- Duolingo User(73 days streak)
+- Leetcode daily problem solver(150 days streak)
 
 
 <!--
