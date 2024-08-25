@@ -3,11 +3,13 @@
 - Duolingo (learning English, 73 days streak)
 - Leetcode daily problem (coding in C++ and python, 150 days streak)
 - English typing (currently 40 words per minute)
+- Creating Alphas in worldquant platform
 
 ⚡ Things I do in my free time:
 - Genshin Impact Player(700 days activity)
 - Starcraft Player(10 years player with 5000 peak mmr)
-- Hearthstone player
+- Hearthstone player(10 years player with 6000+ wins count)
+- Go hiking and go to the gym
 
 
 <!--
