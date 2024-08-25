@@ -1,7 +1,8 @@
 ## Hi there 👋
-🌱 I’m currently learning ...
-- Duolingo User(73 days streak)
-- Leetcode daily problem solver(150 days streak)
+🌱 I’m currently learning and working on...
+- Duolingo (learning English, 73 days streak)
+- Leetcode daily problem (coding in C++ and python, 150 days streak)
+- English typing (currently 40 words per minute)
 
 ⚡ Things I do in my free time:
 - Genshin Impact Player(700 days activity)
