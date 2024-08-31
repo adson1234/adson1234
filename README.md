@@ -6,8 +6,6 @@
 - Creating Alphas in worldquant platform
 
 ⚡ Things I do in my free time:
-- Genshin Impact Player(700 days activity)
-- Hearthstone player(10 years player with 6000+ total wins)
 - Go hiking and go to the gym
 
 
