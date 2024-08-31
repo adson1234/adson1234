@@ -1,7 +1,7 @@
 ## Hi there 👋
 🌱 I’m currently learning and working on...
 - Duolingo (learning English, 73 days streak)
-- Leetcode daily problem (coding in C++ and python, 150 days streak)
+- [Leetcode daily problem](https://leetcode.com/u/adgsful/)(coding in C++ and python, 150 days streak)
 - English typing (currently 40 words per minute)
 - Creating Alphas in worldquant platform
 
